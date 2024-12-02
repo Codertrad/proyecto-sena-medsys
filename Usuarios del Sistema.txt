@@ -1,0 +1,17 @@
+﻿usuario: Admin
+Contaseña: 12345678
+
+usuario: Medico
+Contaseña: 1234
+
+
+
+
+usuario: Test
+
+Contaseña: Test
+
+
+usuario: Jugiro
+Contaseña: 1028
+
